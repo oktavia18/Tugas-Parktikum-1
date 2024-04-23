@@ -19,7 +19,7 @@ lalu, setelah kita membuat database. kita masuk kedalam database tersebut dengan
 
 `USE latihan2;`
 
-![alt text](ss/1.PNG)
+![alt text](ss/ss1.jpeg)
 
 **2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!**
 
