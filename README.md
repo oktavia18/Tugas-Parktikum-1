@@ -13,7 +13,7 @@ Untuk membuat database gunakan perintah sebagai berikut :
 
 `CREATE DATABASE [nama_database]`
 
-`CREATE DATABASE latihan2;`
+`CREATE DATABASE latihan1;`
 
 lalu, setelah kita membuat database. kita masuk kedalam database tersebut dengan perintah sebagai berikut :
 
